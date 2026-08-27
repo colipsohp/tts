@@ -10,4 +10,12 @@ wheels/
 .venv
 .env
 
+# 项目资源与运行产物
 assets/
+workplace/
+database/
+logs/
+
+# 前端
+node_modules/
+frontend/dist/

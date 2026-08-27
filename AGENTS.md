@@ -36,6 +36,7 @@ database/          # sqlite 数据库文件
 assets/            # 项目资源文件，主要是音色文件
   tone/            # 音色文件
 start/             # 项目前后端启动批处理文件，支持一键启动前后端
+workplace/         # 放项目运行的生成文件
 ```
 
 ## 4. Python 编码规范
